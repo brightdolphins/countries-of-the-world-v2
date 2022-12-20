@@ -20,7 +20,6 @@
 - Countries-of-world Restfull APIs Application.
 - Countries-of-world use mariadb on my cloud Database.
 ## How to run application:
-- Open the project by Visual Studio 2022 IDE.
 - Go to Degug menu and then click start debuggin or press key F5.
 - Can use Swagger UI test CRUD APIs method support as below.
   - GET api/Countries/GetCountryById
