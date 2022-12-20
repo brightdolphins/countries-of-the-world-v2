@@ -1,0 +1,97 @@
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\bin\Debug\net6.0\appsettings.json
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.exe
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.deps.json
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.runtimeconfig.json
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.dll
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.pdb
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.csproj.AssemblyReference.cache
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.AssemblyInfoInputs.cache
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.AssemblyInfo.cs
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.csproj.CoreCompileInputs.cache
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\scopedcss\bundle\countries-of-the-world.styles.css
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.dll
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\refint\countries-of-the-world.dll
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.pdb
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.genruntimeconfig.cache
+C:\Users\disat\RiderProjects\countries-of-the-world\countries-of-the-world\obj\Debug\net6.0\ref\countries-of-the-world.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\appsettings.Development.json
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\appsettings.json
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.exe
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.deps.json
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.runtimeconfig.json
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.pdb
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\MySqlConnector.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.csproj.AssemblyReference.cache
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.GeneratedMSBuildEditorConfig.editorconfig
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.AssemblyInfoInputs.cache
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.AssemblyInfo.cs
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.csproj.CoreCompileInputs.cache
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.MvcApplicationPartsAssemblyInfo.cs
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.MvcApplicationPartsAssemblyInfo.cache
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\staticwebassets.build.json
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\staticwebassets.development.json
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\scopedcss\bundle\countries-of-the-world.styles.css
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.csproj.CopyComplete
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\refint\countries-of-the-world.dll
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.pdb
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.genruntimeconfig.cache
+D:\01WeldJoint\Work2022\Brightdolphins\countries-of-world\countries-of-the-world\obj\Debug\net6.0\ref\countries-of-the-world.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\appsettings.json
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.exe
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.deps.json
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.runtimeconfig.json
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\countries-of-the-world.pdb
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.csproj.AssemblyReference.cache
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.AssemblyInfoInputs.cache
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.AssemblyInfo.cs
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.csproj.CoreCompileInputs.cache
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\scopedcss\bundle\countries-of-the-world.styles.css
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.csproj.CopyComplete
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\refint\countries-of-the-world.dll
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.pdb
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\countries-of-the-world.genruntimeconfig.cache
+C:\Users\MSI Sword\RiderProjects\countries-of-world\countries-of-the-world\obj\Debug\net6.0\ref\countries-of-the-world.dll
