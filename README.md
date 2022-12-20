@@ -30,4 +30,3 @@
 ## How to build application:
 - Go to Build menu and then click publish countries-of-world.
 - Click target do you want to destination.
-- If use Folder location build is bin\Release\net6.0\publish\.
