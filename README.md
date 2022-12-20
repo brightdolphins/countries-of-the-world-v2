@@ -19,7 +19,6 @@
 # How to run the application
 - Countries-of-world Restfull APIs Application.
 - Countries-of-world use mariadb on my cloud Database.
-- Countries-of-world for user test will expire on 27-08-2022.
 ## How to run application:
 - Open the project by Visual Studio 2022 IDE.
 - Go to Degug menu and then click start debuggin or press key F5.
