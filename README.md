@@ -17,7 +17,7 @@
 - Push all your code to github before the deadline
 
 # How to run the application
-- Countries-of-world Restfull APIs Application.
+- Countries-of-world Restful APIs Application.
 - Countries-of-world use mariadb on my cloud Database.
 ## How to run application:
 - Go to Degug menu and then click start debuggin or press key F5.
