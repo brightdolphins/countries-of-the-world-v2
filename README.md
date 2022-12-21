@@ -16,16 +16,11 @@
 - Update the readme file with steps on how to run the application
 - Push all your code to github before the deadline
 
-# How to run the application
-- Countries-of-world-v2 Restful APIs Application.
+Example:
 ## How to run application:
-- Go to Debug menu and then click start debuggin or press key F5.
 - Can use Swagger UI test CRUD APIs method support as below.
   - GET api/Countries/GetCountryById
   - GET api/Countries/GetAllCountries
   - PUT api/Countries/UpdateCountry/{countryname}
   - POST api/Countries/AddNewCountry
   - DELETE api/Countries/DeleteCountry/{rowId}
-## How to build application:
-- Go to Build menu and then click publish countries-of-world-v2.
-- Click target do you want to destination.
