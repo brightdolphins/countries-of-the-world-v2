@@ -1,5 +1,5 @@
 ﻿# countries-of-world
-- Welcome to the Bright Dolphins Dotnet test. We want tp capture your work into this repository.
+- Welcome to the Bright Dolphins Dotnet test. We want to capture your work into this repository.
 ## How to start:
 - Pull the starter project from this github repo
 - You have complete freedom to setup the API the way you want
