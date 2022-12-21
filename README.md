@@ -20,7 +20,7 @@
 - Countries-of-world Restful APIs Application.
 - Countries-of-world use mariadb on my cloud Database.
 ## How to run application:
-- Go to Degug menu and then click start debuggin or press key F5.
+- Go to Debug menu and then click start debuggin or press key F5.
 - Can use Swagger UI test CRUD APIs method support as below.
   - GET api/Countries/GetCountryById
   - GET api/Countries/GetAllCountries
