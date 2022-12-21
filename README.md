@@ -16,8 +16,7 @@
 - Update the readme file with steps on how to run the application
 - Push all your code to github before the deadline
 
-Example:
-## How to run application:
+## Example: How to run application:
 - Can use Swagger UI test CRUD APIs method support as below.
   - GET api/Countries/GetCountryById
   - GET api/Countries/GetAllCountries
