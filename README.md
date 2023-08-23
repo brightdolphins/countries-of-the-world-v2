@@ -7,7 +7,7 @@
 - Authenitication is not required
 - The api should work as follows:
   - Countries have name, population and capital (1 Database table is fine)
-  - GET GetCountryById retrieves country with all its data
+  - GET GetCountry retrieves country by parameters such as search by name or continent  
   - GET GetAllCountries retrieves all countries names and population but doesn't include the capital
   - PUT UpdateCountry/{name} updates any field for country data
   - POST AddNewCountry with the request body containing all required country fields
